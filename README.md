@@ -8,7 +8,7 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 
-Usage
+## Usage
 Explore data and perform feature engineering using the notebooks in the notebooks directory.
 Run the scripts in the scripts directory to preprocess data, build causal graphs, train models, and perform optimization.
 Use the modules in the src directory for a more modular approach.
@@ -17,10 +17,6 @@ pytest
 
 ## Project Structure 
 logistics-optimization-with-causal-inference/
-├── data/
-│   ├── raw/                 # Raw data files
-│   ├── processed/           # Processed data files
-│   └── external/            # External data files (e.g., weather, traffic)
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_feature_engineering.ipynb
