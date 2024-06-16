@@ -7,7 +7,7 @@ This project aims to optimize the placement of Gokada drivers in Lagos, Nigeria,
 To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
-
+```
 ## Usage
 Explore data and perform feature engineering using the notebooks in the notebooks directory.
 Run the scripts in the scripts directory to preprocess data, build causal graphs, train models, and perform optimization.
