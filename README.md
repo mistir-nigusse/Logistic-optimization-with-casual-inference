@@ -16,6 +16,7 @@ Run tests using:
 pytest
 
 ## Project Structure 
+```bash
 logistics-optimization-with-causal-inference/
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
@@ -60,4 +61,4 @@ logistics-optimization-with-causal-inference/
 ├── README.md
 └── setup.py
 
-
+```
